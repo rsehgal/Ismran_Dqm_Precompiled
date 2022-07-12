@@ -7,7 +7,7 @@ The library is required to be used directly by ISMRAN_Data_Analysis
 Instructions
 ---------------
 
-1) Clone the repository 
+1) Clone the repository  
    git clone https://github.com/rsehgal/Ismran_Dqm_Precompiled 
 
 2) Set the following environment variable in you .bashrc 
