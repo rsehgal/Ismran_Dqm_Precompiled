@@ -10,11 +10,11 @@ Instructions
 1) Clone the repository  
    git clone https://github.com/rsehgal/Ismran_Dqm_Precompiled 
 
-2) Set the following environment variable in you .bashrc 
+2) Set the following environment variable in you .bashrc  
    export DqmROOT=<complete path to the clone directory> 
 
-   E.g. 
-   export DqmROOT = /home/test/Ismran_Dqm_Precompiled 
+   E.g.  
+   export DqmROOT = /home/test/Ismran_Dqm_Precompiled  
 
    This variable is required by Other projects that uses this library
 
