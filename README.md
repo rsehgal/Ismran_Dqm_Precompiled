@@ -11,7 +11,7 @@ Instructions
    git clone https://github.com/rsehgal/Ismran_Dqm_Precompiled 
 
 2) Set the following environment variable in you .bashrc  
-   export DqmROOT=<complete path to the clone directory> 
+   export DqmROOT=[complete path to the clone directory]
 
    E.g.  
    export DqmROOT = /home/test/Ismran_Dqm_Precompiled  
